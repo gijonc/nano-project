@@ -1,0 +1,7 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "monolog/monolog": "^1.23",
+        "tuupola/cors-middleware": "^0.7.0"
+    }
+}
